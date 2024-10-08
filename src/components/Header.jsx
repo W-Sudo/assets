@@ -7,7 +7,7 @@ export default function Header(){
             <h1>Birdwatching</h1>
             <div className="img">
                 <img 
-                src="src/Images/dove.png"
+                src="/src/Images/dove.png"
                 alt="a simple dove logo"
                 />
             </div>
