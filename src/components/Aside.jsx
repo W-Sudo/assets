@@ -1,4 +1,4 @@
-import FavPic from "./FavPic";
+//import FavPic from "./FavPic";
 
 export default function Aside(){
     return (
