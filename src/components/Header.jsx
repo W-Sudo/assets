@@ -1,5 +1,5 @@
 import Nav from "./Nav";
-import Dove from "./Images"
+import Dove from "./Dove"
 
 export default function Header(){
     return (
